@@ -3,6 +3,8 @@ Include code of Chapter-1-Try-Items
 Name: Juan Montalvo
 Class: Introduction to PHP
 
+https://github.com/mijuanmontalvo/Juan_Montalvo-Chapter-1-Try-Items/blob/main/README.md
+
 
 <?php
 $username = 'Ivy';                                   // Variable to hold username

@@ -5,13 +5,14 @@ Class: Introduction to PHP
 
 
 <?php 
+$name  = 'Guest';
 $name  = 'Ivy';
 $price = 5;
 ?>
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Variables</title>
+    <title>Updating Variables</title>
     <link rel="stylesheet" href="css/styles.css">
   </head>
   <body>
@@ -21,3 +22,6 @@ $price = 5;
        $<?php echo $price; ?> per pack.</p>
   </body>
 </html>
+
+
+
